@@ -122,7 +122,7 @@ By considering all parameter we can say that Random Forest Regressor is the top 
 Command to install libraries
 
 ```bash
-pip install ~r requirements.txt
+pip install -r requirements.txt
 ```
     
 ## Authors
