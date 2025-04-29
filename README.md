@@ -47,6 +47,7 @@ Out of these 13 parameters Final_Score is our target/independent variable which 
 
 ## Data Preprocessing
 1. Outliers have been handled using IQR (Interquartile Range).
+
    Before outlier removal
    
    ![image](https://github.com/user-attachments/assets/5f4b3e20-d6c4-45ad-ae6f-b32d6045d263)
