@@ -56,6 +56,7 @@ Out of these 13 parameters Final_Score is our target/independent variable which 
 
 
 
+
 ## Models
 As the data is a continous value therefore regression models have been employed to solve the problem. The following regression models are used:
 
@@ -99,3 +100,23 @@ r-square: 0.57, mse: 343.56, mae: 14.40, rmse: 18.53
 
 ## Conclusion
 By considering all parameter we can say that Random Forest Regressor is the top performer compared to all other models.
+## Tech Stack
+**Programming Language:** Python
+
+**Libraries:** Numpy, Pandas, Matplotlib, Seaborn, Sikit-learn
+
+
+
+
+## Installation
+
+Command to install libraries
+
+```bash
+pip install ~ requirements.txt
+```
+    
+## Authors
+
+- [@Ravikanth Chivukula](https://github.com/CNVRRaviKanth)
+
