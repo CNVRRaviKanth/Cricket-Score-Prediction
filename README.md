@@ -46,13 +46,21 @@ Out of these 13 parameters Final_Score is our target/independent variable which 
 
 
 ## Data Preprocessing
-1. Outliers have been handled using IQR (Interquartile Range). 
+1. Outliers have been handled using IQR (Interquartile Range).
+   Before outlier removal
+   
+   ![image](https://github.com/user-attachments/assets/5f4b3e20-d6c4-45ad-ae6f-b32d6045d263)
 
-2. Splitting the data for training and testing.
+   After outlier removal
 
-3. Feature encoding for features such as city, battingTeam and bowlingTeam is done using OneHotEncoder.
+   ![image](https://github.com/user-attachments/assets/3886448c-48c6-4939-9912-cb8055861943)
 
-4. Scaling the data using MinMaxScaler to normalize the feature values to a [0,1] range.
+
+3. Splitting the data for training and testing.
+
+4. Feature encoding for features such as city, battingTeam and bowlingTeam is done using OneHotEncoder.
+
+5. Scaling the data using MinMaxScaler to normalize the feature values to a [0,1] range.
 
 
 
